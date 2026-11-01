@@ -22,4 +22,4 @@ The workbench is free. If it saves you time, you can [donate to the project](htt
 
 ---
 
-HeadRush is a trademark of inMusic Brands. Mantle-Lab is not affiliated with or endorsed by inMusic.
+HeadRush is a trademark of inMusic Brands. Mantle-Lab is not (yet!) affiliated with or endorsed by inMusic.
